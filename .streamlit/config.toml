@@ -1,0 +1,13 @@
+[server] 
+headless = true 
+port = 8501 
+enableCORS = false
+
+[theme]
+base = "dark"
+primaryColor = "#4F46E5"             # indigo
+backgroundColor = "#0F1220"          # deep navy
+secondaryBackgroundColor = "#151A2D" # card bg
+textColor = "#E5E7EB"                # gray-200
+font = "Inter"
+ 
