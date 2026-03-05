@@ -1,1 +1,1 @@
-# Doctigo_AI_Slot_Booking_System-2
+# Doctigo_AI_Slot_Booking_System
